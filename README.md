@@ -1,2 +1,1 @@
-This Repo contauins the wiki for my Not Enough Potions Mod.
-You schould also report bugs in this repo.
+# Not Enough Potions public repo/wiki
